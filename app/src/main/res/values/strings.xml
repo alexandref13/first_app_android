@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">firstAppAndroid</string>
+    <string name="title_activity_form_product">FormProductActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
